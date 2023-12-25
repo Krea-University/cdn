@@ -1,0 +1,2 @@
+# cdn
+Krea File CDN
